@@ -1,10 +1,11 @@
 # Coevaluación
 
- MB: Matías Barrientos
- MZ: Matías Zúñiga
- SF: Sebastián Fuenzalida
- PC: Pablo Contreras
- Escala de evaluación: 0 - 100%
+- MB: Matías Barrientos
+- MZ: Matías Zúñiga
+- SF: Sebastián Fuenzalida
+- PC: Pablo Contreras
+
+Escala de evaluación: 0 - 100%
 
 | Criterios                      | Descripción                                                                                                                                                   | MB   | MZ   | SF   | PC   |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------|------|------|
