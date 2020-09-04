@@ -1,5 +1,11 @@
 # Bin Packing con Basic VNS
 
+Para la resolucion de esta problema se siguio el siguiente paper:
+
+Fleszar, K., & Hindi, K. S. (2002). New heuristics for one-dimensional bin-packing. Computers & Operations Research, 29(7), 821–839. doi:10.1016/s0305-0548(00)00082-4
+
+## Compilación y ejecución
+
 Para compilar el codigo debe ejecutar el siguiente comando de linea:
 ```bash
 $ cd bin_packing
