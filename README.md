@@ -17,7 +17,7 @@ Para ejecutar:
 $ ./main ../instances/HARD0.BPP
 ```
 
-El video explicativo se puede ver en este [link](https://www.google.cl)
+El video explicativo se puede ver en este [link](https://drive.google.com/file/d/1uWJL21PMMpo9sb482Tpd7V0hk7h3sfI6/view)
 
 La coevaluacion [aqui](COEVALUACION.md)
 
